@@ -1,7 +1,7 @@
-Student Database Management System
+                                                         Student Database Management System
 The Student Database Management System is a web-based application built using Flask, Python, and MySQL. It provides a user-friendly interface for managing student records, including information such as student details, courses enrolled, grades, and more.
 
-Features
+                                                                    Features
 User Authentication: Secure user authentication system for administrators, teachers, and students.
 Student Management: Add, update, and delete student records with ease.
 Course Management: Manage courses, enroll students, and assign grades.
